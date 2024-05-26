@@ -1,0 +1,30 @@
+# Ignore vendor directory
+/vendor/
+
+# Ignore composer.lock file
+composer.lock
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore logs and cache files
+/logs/
+/cache/
+
+# Ignore environment specific files
+.env
+.env.local
+.env.*.local
+
+# Ignore build artifacts
+/build/
+
+# Ignore session and cookie files
+/sessions/
+/cookies/
+
+# Ignore backup files
+*.bak
+*.swp
+*.swo
