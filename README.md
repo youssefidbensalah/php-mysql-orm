@@ -12,7 +12,7 @@ This project is an Object-Relational Mapping (ORM) implementation from scratch i
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/php-mysql-orm.git`
+1. Clone the repository: `git clone https://github.com/youssefidbensalah/php-mysql-orm.git`
 2. Install the dependencies: `composer install`
 
 ## Usage
